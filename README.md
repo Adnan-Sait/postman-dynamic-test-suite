@@ -1,5 +1,5 @@
 # Dynamic Test Suite Using Postman
-Thie project contains the reources used in the [Dynamic Test Suite Using Postman](http://medium.com) article.
+Thie project contains the reources used in the [Dynamic Test Suite Using Postman](https://medium.com/@adnansait74/dynamic-api-test-suite-in-postman-93bf07caf6ff) article.
 
 ## Postman Resources
 1. Import the Postman collection and the Environment.
